@@ -1,0 +1,7 @@
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\obj\Debug\ConAssign.csprojAssemblyReference.cache
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\obj\Debug\ConAssign.csproj.CoreCompileInputs.cache
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\bin\Debug\ConAssign.exe.config
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\bin\Debug\ConAssign.exe
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\bin\Debug\ConAssign.pdb
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\obj\Debug\ConAssign.exe
+D:\MicrosoftFullStack\BackEnd\DotNet\ConAssign\ConAssign\obj\Debug\ConAssign.pdb
