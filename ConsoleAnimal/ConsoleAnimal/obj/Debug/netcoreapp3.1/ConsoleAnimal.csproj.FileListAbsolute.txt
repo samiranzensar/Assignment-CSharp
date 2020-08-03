@@ -1,0 +1,3 @@
+D:\MicrosoftFullStack\BackEnd\DotNet\ConsoleAnimal\ConsoleAnimal\obj\Debug\netcoreapp3.1\ConsoleAnimal.AssemblyInfoInputs.cache
+D:\MicrosoftFullStack\BackEnd\DotNet\ConsoleAnimal\ConsoleAnimal\obj\Debug\netcoreapp3.1\ConsoleAnimal.AssemblyInfo.cs
+D:\MicrosoftFullStack\BackEnd\DotNet\ConsoleAnimal\ConsoleAnimal\obj\Debug\netcoreapp3.1\ConsoleAnimal.csproj.CoreCompileInputs.cache
